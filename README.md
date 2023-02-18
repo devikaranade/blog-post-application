@@ -46,6 +46,8 @@ Blog Application that shows
 # Future Improvements
 
 To display the most recently added blog on the top of the HomePage
+
+Like functionality on blog
  
 Searching for a particular blog/article
 
