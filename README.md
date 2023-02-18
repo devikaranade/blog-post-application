@@ -27,4 +27,4 @@ Installation
 
 1. User can view the first 5 blogs on the main page
 
-[!CHEESE!][mainpage.png]
+- ![MainPage](mainpage.png) 
