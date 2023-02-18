@@ -9,8 +9,8 @@ The 'TechRead' application is one of a kind application that allows you to read,
 Blog Application that shows
 
 1. Main Page with the top 5 Blogs
-2. Link to create a New Post for Blog with title, Description, Image, and Tags
-3. You need to have one page with a list of all Blogs with Paging
+2. Link to create a New Post for Blog with title, Description and Image
+3. All blogs page having list of blogs with paging feature
 
 # Tech Stack
 
