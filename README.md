@@ -45,6 +45,8 @@ Blog Application that shows
 
 # Future Improvements
 
+Design a logo 
+
 To display the most recently added blog on the top of the HomePage
 
 Like functionality on blog
