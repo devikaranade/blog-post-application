@@ -21,7 +21,8 @@ Blog Application that shows
 # Installation
 
 1. Clone the files and add them to your root folder. If you're using xampp, the location would be Applications/XAMPP/htdocs
-2. Open the terminal and cd into the root folder and run the collowing command " php -S localhost:8000"
+2. Open the terminal and cd into the root folder and run the following command " php -S localhost:8000"
+3. Open the browser and goto localhost:8000
 
 # Main functional modules
 
